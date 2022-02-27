@@ -1,5 +1,6 @@
 # Cruise
-Users write and we measure keyboard input and brain data. We predict when the user will approach a roadblock, or when they do not write a customly defined number of words in a predefined time interval. If they hit a roadblock, we offer solutions such as recommending research articles, scaffolding questions, or taking a break.
+Cruise is a writing efficiency tool that uses keyboard text input and EEG brain data to increase user productivity. Users can specify writing productivity thresholds (such as words per five minutes) defining a roadblock. Cruise predicts when the user will approach a roadblock and offers solutions such as recommending research articles, scaffolding questions, or taking a break. Solutions depend on previously defined thresholds and seek to maximize overall productivity.
+
 
 **Features**
 - Users write on a Google Docs document
